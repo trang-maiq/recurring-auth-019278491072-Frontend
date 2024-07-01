@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Meetup 2025 is quickly approaching, and we're excited to see you there!",
+        "linkText": "Sign up now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality.",
+        "title": "Empowering Innovation Through Shared Insights"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Empowering Innovation Through Shared Insights",
+  "subtitle": "Discover a world of possibilities with Yay, where technology meets inspiration and ideas transform into reality."
+}
